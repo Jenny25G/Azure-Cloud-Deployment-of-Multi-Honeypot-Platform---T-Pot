@@ -74,10 +74,19 @@ This project implements a **Multi-Honeypot Platform** using **T-Pot**, a collect
 
 Screenshots from the deployment and dashboards are provided in the `assets/screenshots/` directory and project documentation. 
 
-* **VM Configuration and Setup**
-* **Attack Map Visualization**
-* **ElasticVue Interface**
-* **System Logs and Threat Data**
+![](assets/screenshots/img5.jpg)
+![](assets/screenshots/img7.jpg)
+![](assets/screenshots/img10.jpg)
+![](assets/screenshots/img13.jpg)
+![](assets/screenshots/img16.jpg)
+![](assets/screenshots/img17.jpg)
+![](assets/screenshots/img20.jpg)
+![](assets/screenshots/img21.jpg)
+![](assets/screenshots/img22.jpg)
+![](assets/screenshots/img25.jpg)
+![](assets/screenshots/img26.jpg)
+![](assets/screenshots/img29.jpg)
+![](assets/screenshots/img30.jpg)
 
 ---
 
